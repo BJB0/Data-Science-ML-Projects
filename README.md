@@ -42,7 +42,6 @@ If you have suggestions or improvements, feel free to **fork** this repository a
 ## 📩 Connect With Me
 Let's connect and discuss ideas! 🚀
 - LinkedIn: [Bhargab Jyoti Bhuyan](https://linkedin.com/in/bhargab-jb)
-- GitHub: [BJB0](https://github.com/BJB0)
 - Email: bjbcr7@gmail.com
 
 ---
