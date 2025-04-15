@@ -13,8 +13,6 @@ Here are some of the key projects included in this repository:
 3. **Python Gallery Plot** - Visualization of different plots using Python.
 4. **Time Series Data Visualization** - Exploring and visualizing time series data using various techniques.
 
-*(More projects will be added as I continue learning and exploring!)*
-
 ## 🛠 Technologies & Tools
 - **Python** 🐍
 - **Google Colab** 📓
@@ -45,5 +43,4 @@ Let's connect and discuss ideas! 🚀
 - Email: bjbcr7@gmail.com
 
 ---
-🔹 *Stay tuned for more exciting projects!* 🔹
 
